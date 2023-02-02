@@ -1,9 +1,9 @@
-import Navbar from './Navbar.js'
+import Header from './Header.js'
 
 function App() {
   return (
     <>
-    <Navbar />
+    <Header />
     </>
   );
 }
